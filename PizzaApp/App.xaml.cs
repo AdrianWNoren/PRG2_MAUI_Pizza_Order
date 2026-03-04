@@ -9,7 +9,14 @@
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new AppShell());
+            var window = new Window(new AppShell());
+
+#if WINDOWS || MACCATALYST
+            window.Width = 350;
+            window.Height = 600;
+#endif
+
+            return window;
         }
     }
 }
