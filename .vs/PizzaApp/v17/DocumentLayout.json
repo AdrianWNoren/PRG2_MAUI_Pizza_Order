@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\model\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\model\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\model\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\model\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\model\\iingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\model\\iingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\model\\condiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\model\\condiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\services\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\viewmodel\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\viewmodel\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\view\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\view\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\services\\stringnotemptyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\stringnotemptyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\pizzaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\pizzaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|c:\\users\\adrian nor\u00E9n\\source\\repos\\pizzaapp\\pizzaapp\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA11414-C4B2-47CB-99A0-0AC49009A450}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PizzaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Drink.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Model\\Drink.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Drink.cs",
+              "RelativeToolTip": "PizzaApp\\Model\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:08:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\IIngredient.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Model\\IIngredient.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\IIngredient.cs",
+              "RelativeToolTip": "PizzaApp\\Model\\IIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:06:53.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Model\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Pizza.cs",
+              "RelativeToolTip": "PizzaApp\\Model\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:08:51.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Condiment.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Condiment.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Model\\Condiment.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Condiment.cs",
+              "RelativeToolTip": "PizzaApp\\Model\\Condiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:07:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Ingredients.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Model\\Ingredients.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Ingredients.cs",
+              "RelativeToolTip": "PizzaApp\\Model\\Ingredients.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:07:12.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "PizzaApp\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T09:07:16.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\AppData.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\AppData.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\AppData.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\AppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T09:10:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\LoginPage.xaml",
+              "RelativeToolTip": "PizzaApp\\View\\LoginPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T21:44:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\App.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\App.xaml",
+              "RelativeToolTip": "PizzaApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T13:14:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\App.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:54:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\AppShell.xaml",
+              "RelativeToolTip": "PizzaApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T09:29:49.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "PizzaApp\\ClassDiagram.cd",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ClassDiagram.cd",
+              "RelativeToolTip": "PizzaApp\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-05-05T23:45:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:30:06.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "PizzaApp\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:29:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\ViewModel\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\CartViewModel.cs",
+              "RelativeToolTip": "PizzaApp\\ViewModel\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T09:07:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "PizzaApp\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T09:06:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\ViewModel\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\ViewModel\\AdminViewModel.cs",
+              "RelativeToolTip": "PizzaApp\\ViewModel\\AdminViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T09:06:45.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\View\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:00:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\MainPage.xaml",
+              "RelativeToolTip": "PizzaApp\\View\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T09:59:48.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\LoginPage.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\View\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:44:34.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\CartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\CartPage.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\View\\CartPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:15:57.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\CartPage.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\CartPage.xaml",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\CartPage.xaml",
+              "RelativeToolTip": "PizzaApp\\View\\CartPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T09:51:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\AdminPage.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\View\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:26:23.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\View\\AdminPage.xaml",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\View\\AdminPage.xaml",
+              "RelativeToolTip": "PizzaApp\\View\\AdminPage.xaml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T09:50:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StringNotEmptyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\StringNotEmptyConverter.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\StringNotEmptyConverter.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\StringNotEmptyConverter.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\StringNotEmptyConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:45:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\DataService.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:28:51.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:55:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PizzaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+              "RelativeDocumentMoniker": "PizzaApp\\PizzaApp.csproj",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+              "RelativeToolTip": "PizzaApp\\PizzaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T11:54:50.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\GlobalXmlns.cs",
+              "RelativeToolTip": "PizzaApp\\GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:26:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Adrian Nor\u00E9n\\source\\repos\\PizzaApp\\PizzaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "PizzaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:03:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAawNUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-04T09:56:39.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

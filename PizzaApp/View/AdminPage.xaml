@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="PizzaApp.AdminPage"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Add products (Admin)">
+    <ScrollView>
+        <VerticalStackLayout Padding="10" Spacing="10">
+
+            <Label Text="Type of product to add:"     
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   TextColor="#302833" />
+            <Picker ItemsSource="{Binding ProductTypes}"
+                    SelectedItem="{Binding SelectedType}"
+                    WidthRequest="150"
+                    HorizontalOptions="Center"
+                    Margin="0,0,0,10" />
+
+            <Label Text="Name:" FontAttributes="Bold" TextColor="#302833" />
+            <Entry Text="{Binding ProductName}"
+                   Placeholder="Ex: Caprichosa, Coke"
+                   FontAttributes="Bold"
+                   WidthRequest="200"
+                   HorizontalOptions="Start"
+                   TextColor="#302833" />
+
+            <Label Text="Price:" FontAttributes="Bold" TextColor="#302833" />
+            <Entry Text="{Binding Price}"
+                   Placeholder="Ex: 110"
+                   WidthRequest="200"
+                   HorizontalOptions="Start"
+                   FontAttributes="Bold"
+                   TextColor="#302833" />
+
+            <StackLayout IsVisible="{Binding IsPizzaSelected}" Spacing="10">
+                <Label Text="Search ingredients:" FontAttributes="Bold" TextColor="#302833" />
+                <Entry Text="{Binding SearchText}"
+                       Placeholder="Search ingredients..."
+                       FontAttributes="Bold"
+                       WidthRequest="200"
+                       HorizontalOptions="Start"
+                       TextColor="#302833" />
+
+                <Label Text="Available Ingredients:" FontAttributes="Bold" TextColor="#302833" />
+                <CollectionView ItemsSource="{Binding FilteredIngredients}" HeightRequest="200">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Border Margin="5" Padding="5" Stroke="LightGray" StrokeThickness="1" >
+                                <StackLayout Spacing="5">
+                                    <Label Text="{Binding Name}" FontAttributes="Bold" />
+                                    <Label Text="{Binding Price, StringFormat='{0} kr'}" />
+                                    <Button Text="Add to product"
+                                            Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.AddIngredientCommand}"
+                                            CommandParameter="{Binding .}"
+                                            BackgroundColor="#3ab03c"
+                                            TextColor="White"
+                                            FontAttributes="Bold"
+                                            CornerRadius="8"
+                                            HeightRequest="35"/>
+                                </StackLayout>
+                            </Border>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+                <Label Text="Selected Ingredients:" FontAttributes="Bold" TextColor="#302833" />
+                <CollectionView ItemsSource="{Binding SelectedIngredients}" HeightRequest="150">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Border Margin="5" Padding="5" Stroke="LightGray" StrokeThickness="1" >
+                                <StackLayout Orientation="Horizontal" Spacing="10">
+                                    <Label Text="{Binding Name}" FontAttributes="Bold" VerticalOptions="Center"/>
+                                    <Label Text="{Binding Price, StringFormat='{0} kr'}" VerticalOptions="Center"/>
+                                    <Button Text="Remove"
+                                            Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.RemoveIngredientCommand}"
+                                            CommandParameter="{Binding .}"
+                                            BackgroundColor="#E63946"
+                                            TextColor="White"
+                                            FontAttributes="Bold"
+                                            CornerRadius="8"
+                                            HeightRequest="30"
+                                            HorizontalOptions="EndAndExpand"/>
+                                </StackLayout>
+                            </Border>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+
+            <Button Text="Add item/product"
+                    Command="{Binding SaveProductCommand}"
+                    Margin="0,20,0,20"
+                    WidthRequest="150"
+                    BackgroundColor="#1473c7"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="10"
+                    HeightRequest="50"
+                    HorizontalOptions="Center"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

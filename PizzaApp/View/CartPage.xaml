@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="PizzaApp.CartPage"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Cart" BackgroundColor="White">
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="Your Order" FontSize="24" FontAttributes="Bold" TextColor="#302833"/>
+        <CollectionView ItemsSource="{Binding CartItems}" SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10" ColumnDefinitions="*,Auto,Auto">
+                        <Label Text="{Binding Name}" FontSize="18" TextColor="#302833"/>
+                        <Label Grid.Column="1" Text="{Binding Quantity, StringFormat='x{0}'}" FontSize="16" TextColor="Gray"/>
+                        <Label Grid.Column="2" Text="{Binding TotalPrice, StringFormat='{0:F2} kr'}" FontSize="18" TextColor="#1473c7"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Label Text="{Binding TotalPrice, StringFormat='Total: {0:F2} kr'}" FontSize="20" FontAttributes="Bold" TextColor="#1473c7" HorizontalOptions="End"/>
+        <Button Text="Place Order" Command="{Binding PlaceOrderCommand}"
+                BackgroundColor="#1473c7" TextColor="White" CornerRadius="10" HeightRequest="50"/>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="PizzaApp.MainPage"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Order"
+             BackgroundColor="White">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="Pizzas" FontSize="24" FontAttributes="Bold" TextColor="#302833"/>
+            <CollectionView ItemsSource="{Binding Pizzas}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10" ColumnDefinitions="*,Auto,Auto,Auto,Auto">
+                            <Label Text="{Binding Name}" FontSize="18" TextColor="#302833" VerticalOptions="Center"/>
+                            <Label Grid.Column="1" Text="{Binding Price, StringFormat='{0} kr'}" FontSize="16" TextColor="#666" VerticalOptions="Center" Margin="10,0"/>
+                            <Stepper Grid.Column="2" Minimum="0" Maximum="10" Increment="1" Value="{Binding Quantity}" VerticalOptions="Center"/>
+                            <Label Grid.Column="3"
+                                   Text="{Binding Quantity}"
+                                   FontSize="16"
+                                   FontAttributes="Bold"
+                                   TextColor="#302833"
+                                   VerticalOptions="Center"
+                                   HorizontalOptions="Center"
+                                   WidthRequest="30"
+                                   Margin="4,0"/>
+                            <Button Grid.Column="4" Text="Add to cart"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.AddToCartCommand}"
+                                    CommandParameter="{Binding .}"
+                                    BackgroundColor="#3ab03c" TextColor="White" FontAttributes="Bold" CornerRadius="10" HeightRequest="40"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Label Text="Drinks" FontSize="24" FontAttributes="Bold" TextColor="#302833"/>
+            <CollectionView ItemsSource="{Binding Drinks}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10" ColumnDefinitions="*,Auto,Auto,Auto,Auto">
+                            <Label Text="{Binding Name}" FontSize="18" TextColor="#302833" VerticalOptions="Center"/>
+                            <Label Grid.Column="1" Text="{Binding Price, StringFormat='{0} kr'}" FontSize="16" TextColor="#666" VerticalOptions="Center" Margin="10,0"/>
+                            <Stepper Grid.Column="2" Minimum="0" Maximum="10" Increment="1" Value="{Binding Quantity}" VerticalOptions="Center"/>
+                            <Label Grid.Column="3"
+                                   Text="{Binding Quantity}"
+                                   FontSize="16"
+                                   FontAttributes="Bold"
+                                   TextColor="#302833"
+                                   VerticalOptions="Center"
+                                   HorizontalOptions="Center"
+                                   WidthRequest="30"
+                                   Margin="4,0"/>
+                            <Button Grid.Column="4" Text="Add to cart"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.AddToCartCommand}"
+                                    CommandParameter="{Binding .}"
+                                    BackgroundColor="#3ab03c" TextColor="White" FontAttributes="Bold" CornerRadius="10" HeightRequest="40"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Label Text="Condiments" FontSize="24" FontAttributes="Bold" TextColor="#302833"/>
+            <CollectionView ItemsSource="{Binding Condiments}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10" ColumnDefinitions="*,Auto,Auto,Auto,Auto">
+                            <Label Text="{Binding Name}" FontSize="18" TextColor="#302833" VerticalOptions="Center"/>
+                            <Label Grid.Column="1" Text="{Binding Price, StringFormat='{0} kr'}" FontSize="16" TextColor="#666" VerticalOptions="Center" Margin="10,0"/>
+                            <Stepper Grid.Column="2" Minimum="0" Maximum="10" Increment="1" Value="{Binding Quantity}" VerticalOptions="Center"/>
+                            <Label Grid.Column="3"
+                                   Text="{Binding Quantity}"
+                                   FontSize="16"
+                                   FontAttributes="Bold"
+                                   TextColor="#302833"
+                                   VerticalOptions="Center"
+                                   HorizontalOptions="Center"
+                                   WidthRequest="30"
+                                   Margin="4,0"/>
+                            <Button Grid.Column="4" Text="Add to cart"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.AddToCartCommand}"
+                                    CommandParameter="{Binding .}"
+                                    BackgroundColor="#3ab03c" TextColor="White" FontAttributes="Bold" CornerRadius="10" HeightRequest="40"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Text="Go to cart"
+                    Command="{Binding GoToCartCommand}"
+                    BackgroundColor="#1473c7" TextColor="White" FontAttributes="Bold" CornerRadius="10" HeightRequest="50"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

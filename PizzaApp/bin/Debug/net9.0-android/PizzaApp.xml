@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PizzaApp</name>
+    </assembly>
+    <members>
+        <member name="T:PizzaApp.Model.Condiment">
+            <summary>
+            Represents a condiment (sauce/dressing) that can be ordered.
+            Inherits from Ingredients and implements IIngredient.
+            </summary>
+        </member>
+        <member name="T:PizzaApp.Model.Drink">
+            <summary>
+            Represents a drink that can be ordered.
+            Inherits from Ingredients and implements IIngredient.
+            </summary>
+        </member>
+        <member name="T:PizzaApp.Model.IIngredient">
+            <summary>
+            Interface representing an orderable item in the pizza app.
+            Implemented by Ingredients, Pizza, Condiment and Drink.
+            </summary>
+        </member>
+        <member name="P:PizzaApp.Model.IIngredient.Id">
+            <summary>Unique identifier for the item.</summary>
+        </member>
+        <member name="P:PizzaApp.Model.IIngredient.Name">
+            <summary>Display name of the item.</summary>
+        </member>
+        <member name="P:PizzaApp.Model.IIngredient.Price">
+            <summary>Base price of the item.</summary>
+        </member>
+        <member name="P:PizzaApp.Model.IIngredient.IsVisible">
+            <summary>Whether the item is visible to customers.</summary>
+        </member>
+        <member name="P:PizzaApp.Model.IIngredient.Quantity">
+            <summary>How many of this item are in the order.</summary>
+        </member>
+        <member name="P:PizzaApp.Model.IIngredient.TotalPrice">
+            <summary>Total price calculated as Price * Quantity.</summary>
+        </member>
+        <member name="T:PizzaApp.Model.Ingredients">
+            <summary>
+            Represents a pizza ingredient or orderable item.
+            Implements IIngredient and INotifyPropertyChanged.
+            </summary>
+        </member>
+        <member name="T:PizzaApp.Model.Pizza">
+            <summary>
+            Represents a pizza with a base price and a list of ingredients.
+            Implements IIngredient and extends BaseViewModel for property change notifications.
+            </summary>
+        </member>
+        <member name="P:PizzaApp.Model.Pizza.Price">
+            <summary>Total price including all ingredients.</summary>
+        </member>
+        <member name="P:PizzaApp.Model.Pizza.TotalPrice">
+            <summary>Total price multiplied by quantity.</summary>
+        </member>
+        <member name="T:PizzaApp.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>
